@@ -17,12 +17,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Software Engineer building **full-stack web apps, mobile apps, and AI-powered solutions**
-- 🌱 Passionate about **AI/ML, automation, and building products that solve real problems**
-- 💻 Experience with **Python, TypeScript, Dart/Flutter, C++, and modern web frameworks**
+- 🔭 Software Engineer focused on **backend systems, API design, and AI-powered automation**
+- 🌱 Currently exploring **FastAPI, microservices architecture, and LLM integrations**
+- 💻 Experience with **Python, TypeScript, Dart/Flutter, C++, and modern backend frameworks**
 - 📍 Based in **Karachi, Pakistan**
-- ⚡ Fun fact: *I've built everything from blockchain ticketing platforms to cricket scoring apps*
-- 📫 Reach me at: **asadjafri9@gmail.com** or via [LinkedIn](https://linkedin.com/in/syed-asad-jafri)
+- ⚡ When I'm not coding, you'll find me exploring new tech, reading up on system design, or experimenting with the latest AI tools
+- 📫 Reach me at: **asadjaffri79315@gmail.com** or via [LinkedIn](https://linkedin.com/in/syed-asad-jafri)
 
 ---
 
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -99,14 +100,14 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🏏 Cricket Scoring App</h3>
-      <p align="center">Live cricket scoring application built with Flutter. Real-time scorecard, player stats, and match commentary.</p>
+      <h3 align="center">🚀 AI Dispatch Dashboard</h3>
+      <p align="center">AI-powered dispatch dashboard for managing and tracking operations in real-time with intelligent routing and analytics.</p>
       <p align="center">
-        <a href="https://github.com/Asadjafri9/cricket-scoring-app">
+        <a href="https://github.com/Asadjafri9/ai-dispatch-dash">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><code>Dart</code> <code>Flutter</code> <code>Mobile</code></p>
+      <p align="center"><code>Python</code> <code>FastAPI</code> <code>AI</code></p>
     </td>
     <td width="50%">
       <h3 align="center">🔄 SyncScript — Sync Platform</h3>
