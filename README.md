@@ -80,8 +80,8 @@ $ git log --oneline --graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asadjafri9&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadjafri9&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="47%" />
+<img src="https://github-readme-stats-production-0ab6.up.railway.app/api?username=Asadjafri9&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" width="47%" />
+<img src="https://github-readme-stats-production-0ab6.up.railway.app/api/top-langs?username=Asadjafri9&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="47%" />
 
 </div>
 
