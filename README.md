@@ -72,7 +72,7 @@ $ git log --oneline --graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadjafri9&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB22" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asadjafri9&theme=github_dark" width="95%" />
 
 </div>
 
@@ -80,8 +80,16 @@ $ git log --oneline --graph
 
 <div align="center">
 
-<img src="https://github-readme-stats-production-0ab6.up.railway.app/api?username=Asadjafri9&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" width="47%" />
-<img src="https://github-readme-stats-production-0ab6.up.railway.app/api/top-langs?username=Asadjafri9&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="47%" />
+<img src="https://streak-stats.demolab.com?user=Asadjafri9&theme=github-dark&hide_border=true" width="95%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asadjafri9&theme=github_dark" width="47%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asadjafri9&theme=github_dark" width="47%" />
 
 </div>
 
